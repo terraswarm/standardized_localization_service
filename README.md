@@ -29,7 +29,7 @@ There is also a set of dependencies you will have to satisfy:
 Obviously, you will need the source code of the Standardized Localization Service:
 
 ```
-git clone https://filip_lemic@bitbucket.org/filip_lemic/standardized_location_service.git
+git clone https://github.com/terraswarm/standardized_localization_service.git
 cd standardized_location_service
 ```
 
